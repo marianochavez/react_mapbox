@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# react_mapbox
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e969c048-dd28-407f-97e8-82204f724f87/deploy-status)](https://app.netlify.com/sites/mapbox-react-mc/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
